@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/matteocorradin/.android/build-cache/ce4d03b6d13ac3df0e2cb56fbb1a8f16d5fa9e84/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3a1bac2cc31df44dbf1f9bbf2c675319503c9271">
+        <dex dex="/Users/matteocorradin/Downloads/android-BasicSyncAdapter-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7eaf06a7761a1acbba5f69314172ee3b6df854fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matteocorradin/Downloads/android-BasicSyncAdapter-master/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9f0daa67d41119dbf84204196d3b671075c9009f">
+        <dex dex="/Users/matteocorradin/Downloads/android-BasicSyncAdapter-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3171367e45b59d083df9c9b0982cdc7def4647f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matteocorradin/Downloads/android-BasicSyncAdapter-master/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/matteocorradin/Downloads/android-BasicSyncAdapter-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6a72395d4445ae9650f9169fac6e62f005ae19ea/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/matteocorradin/Downloads/android-BasicSyncAdapter-master/Application/build/intermediates/res/merged/debug/xml/syncadapter.xml",
+        "source": "/Users/matteocorradin/Downloads/android-BasicSyncAdapter-master/Application/src/main/res/xml/syncadapter.xml"
+    },
+    {
+        "merged": "/Users/matteocorradin/Downloads/android-BasicSyncAdapter-master/Application/build/intermediates/res/merged/debug/xml/authenticator.xml",
+        "source": "/Users/matteocorradin/Downloads/android-BasicSyncAdapter-master/Application/src/main/res/xml/authenticator.xml"
+    }
+]

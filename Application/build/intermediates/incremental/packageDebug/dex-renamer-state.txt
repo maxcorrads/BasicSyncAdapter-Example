@@ -1,0 +1,7 @@
+#Mon Oct 02 22:19:05 CEST 2017
+base.0=/Users/matteocorradin/Downloads/android-BasicSyncAdapter-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6a72395d4445ae9650f9169fac6e62f005ae19ea
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/matteocorradin/Downloads/android-BasicSyncAdapter-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3171367e45b59d083df9c9b0982cdc7def4647f5/classes.dex
+base.1=/Users/matteocorradin/Downloads/android-BasicSyncAdapter-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3171367e45b59d083df9c9b0982cdc7def4647f5
+file.0=/Users/matteocorradin/Downloads/android-BasicSyncAdapter-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6a72395d4445ae9650f9169fac6e62f005ae19ea/classes.dex

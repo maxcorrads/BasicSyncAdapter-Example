@@ -1,0 +1,4 @@
+#Mon Oct 02 22:19:04 CEST 2017
+base.0=/Users/matteocorradin/Downloads/android-BasicSyncAdapter-master/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6
+renamed.0=classes.dex
+file.0=/Users/matteocorradin/Downloads/android-BasicSyncAdapter-master/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex
